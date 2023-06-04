@@ -35,7 +35,7 @@ e81fb84e836e5d904f0dd0414d006698 {API Key}
 And Then Once Test Ur Url On Chrome is It Was Working OR NOt....
 `
 # After Calling An URl U Will Get Some Json Data As Below
-`
+```js
 
 {
     "coord": {
@@ -84,7 +84,7 @@ And Then Once Test Ur Url On Chrome is It Was Working OR NOt....
     "cod": 200
   }
 
-`
+```
 
 # Ok lets get Started.......
 `
@@ -97,7 +97,7 @@ opload it in on assets folder
 # Now the All Things  are  Ready to Start Our Project ..... Lets code....=> 
 
 ### Open Ur App.js File And Use This Code...
-`
+```js
 import React, { useState } from "react";
 import axios from "axios";
 
@@ -168,7 +168,8 @@ function App() {
 }
 
 export default App;
-
+```
+`
 1.Inthe Above Code we Imported 2 things...1.axios 2.React and its Component useState
 
 2.with the help of the axios we can call the API as Fetch Call In JS
@@ -185,7 +186,7 @@ export default App;
 # Now Lets Make Some Changes And Extra Elemts To Look Our Ui Beautiful With The Help Of Css
 
 ## In the Index.css File Make Sure U had Done Changes And Implemanted This Code
-`
+```js
 @import url('https://i.pinimg.com/originals/ed/86/00/ed86001f259f724077d692a891541eec.jpg');
 
 * {
@@ -292,7 +293,7 @@ h1 {
   font-weight: 700;
 }
 
-`
+```
 
 ## Ok NOw Check All The Codes Are Correct With Out Getting An Error....
 `
@@ -302,10 +303,10 @@ npm run start
 `
 
 # Thanking U...
-`
+```sh
 For Spending Ur valuable Time Fo us....
 
         Regards From 
                  
                  - Teja Nayak -
-`
+```
