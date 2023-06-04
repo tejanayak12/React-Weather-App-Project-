@@ -1,6 +1,6 @@
 # Hi Engeneers Welcome To my Project Weather App....
 
-## Iam Teja NAyak A Full-Stack Developer....
+## Iam Teja Nayak  (Full-Stack Dev...)
 
 # Iam Here Create a Own Project Of Weather Server with (Live Location)
 
@@ -22,7 +22,16 @@ As Terminal =>  npm start => Running module...pls wait
 `
 in terminal => npm install axios
 `
+# after all these lets go to work place VsCOde....
+`
+first we Shoud take a API fro live Location to Track The Weather 
 
+https://openweathermap.org/current#name
+and Choose an api Key of API KEy...
+
+e81fb84e836e5d904f0dd0414d006698 {API Key}
+And Then Once Test Ur Url On Chrome is It Was Working OR NOt....
+`
 
 
 
